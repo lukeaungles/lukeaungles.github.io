@@ -1,0 +1,21 @@
+* {
+    font-family: Helvetica;
+}
+
+.square {
+    height: 20px;
+    width: 20px;
+    border: 1px solid black;
+}
+
+#grey {
+    background-color: #AFB8BD;
+}
+
+#black {
+    background-color: #00040D;
+}
+
+#green {
+    background-color: #00C0A3;
+}
