@@ -1,21 +1,31 @@
 * {
     font-family: Helvetica;
-}
-
-.square {
-    height: 20px;
-    width: 20px;
-    border: 1px solid black;
-}
-
-#grey {
-    background-color: #AFB8BD;
-}
-
-#black {
-    background-color: #00040D;
-}
-
-#green {
-    background-color: #00C0A3;
-}
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    text-align: horizontal;
+  }
+  
+  .header {
+    height: 69px;
+    border-bottom: 1px solid seashell;
+  }
+  
+  .nav {
+    text-decoration: underline;
+  }
+  
+  #logo {
+    height: 50px;
+    padding-left: 10px;
+  }
+  
+  
+  .mission {
+    height: 700px;
+    width: 1200px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+  }
